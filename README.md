@@ -24,7 +24,7 @@ Studio ogni giorno per costruire una solida base tecnica, con un approccio tradi
 - 💻 Scripting con BASH e Python  
 - 💥 SQL Injection (da base ad avanzata)  
 - 🧪 Test pratici su DVWA con Burp Suite
-- 
+ 
 
 ### 📁 Cosa troverai qui  
 - Report tecnici delle vulnerabilità che studio  
